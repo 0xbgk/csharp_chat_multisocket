@@ -1,0 +1,28 @@
+# csharp_chat_multisocket
+--------------------------
+
+
+Server and Client Based Chat Application with C#
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+image:https://i.imgur.com/YJHbznn.png[alt="uygulama baslangic"]
+{sp}+
+> Uygulama Baslangıc(isim ve port istege göre girilir server secilir)
+
+{sp}+
+> İkinci bir uygulama acılıp tekrar isim girilir ve client secilir.(Burada portların aynı olmasına dikkat edilmelidir.)
+{sp}+
+> Client Servera baglanınca ekran cıktısı bu sekilde..
+
+image:https://i.imgur.com/WOJmsHH.png[alt="uygulama baslangic"]
+{sp}+
+
+*Örnek Görseller*
+
+image:https://imgur.com/vwQ5OOW.png[alt="ornek kullanım", width="320", height="240"]
+image:https://i.imgur.com/GcOhSAZ.png[alt="ornek kullanım", width="320", height="240"]
+image:https://i.imgur.com/Yp94Lnw.png[alt="ornek kullanım", width="320", height="240"]
+image:https://i.imgur.com/PGsZyG5.png[alt="ornek kullanım", width="320", height="240"]
+{sp}+
