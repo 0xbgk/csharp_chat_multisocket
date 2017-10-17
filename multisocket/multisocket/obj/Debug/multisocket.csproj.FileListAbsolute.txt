@@ -1,0 +1,10 @@
+D:\Workspace.Visual Studio\multisocket\multisocket\bin\Debug\multisocket.exe.config
+D:\Workspace.Visual Studio\multisocket\multisocket\bin\Debug\multisocket.exe
+D:\Workspace.Visual Studio\multisocket\multisocket\bin\Debug\multisocket.pdb
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.Form1.resources
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.Properties.Resources.resources
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.csproj.GenerateResource.Cache
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.csproj.CoreCompileInputs.cache
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.exe
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.pdb
+D:\Workspace.Visual Studio\multisocket\multisocket\obj\Debug\multisocket.csprojResolveAssemblyReference.cache
